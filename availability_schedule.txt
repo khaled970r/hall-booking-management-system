@@ -1,0 +1,1 @@
+Hall ID: 101, Hall Type: metting room, Booking Rate: 200RM, Capacity: 20, Start Date: 10/07/2024, Start Time: 10:30, End Date: 17/07/2024, End Time: 03:30, Remarks: 1111

@@ -1,0 +1,8 @@
+BookingID: 001 | Date: 2024-01-15 | Hall: Auditorium | Amount: 1200.00 | Customer: John Doe
+BookingID: 002 | Date: 2024-02-10 | Hall: Banquet Hall | Amount: 1500.00 | Customer: Jane Smith
+BookingID: 003 | Date: 2024-03-05 | Hall: Meeting Room 1 | Amount: 800.00 | Customer: Robert Williams
+BookingID: 004 | Date: 2024-04-12 | Hall: Auditorium | Amount: 1300.00 | Customer: Emily Clark
+BookingID: 005 | Date: 2024-05-20 | Hall: Banquet Hall | Amount: 1600.00 | Customer: Michael Johnson
+BookingID: 006 | Date: 2024-09-10 | Hall: A | Amount: 150.0 | Customer: Johny
+BookingID: 007 | Date: 2024-09-20 | Hall: B | Amount: 200.0 | Customer: Jane
+BookingID: 008 | Date: 2024-09-25 | Hall: C | Amount: 100.0 | Customer: Alice
